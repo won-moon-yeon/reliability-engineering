@@ -16,6 +16,7 @@ You should use your TV’s Google Chromebit user to display your Grafana dashboa
 
 You should not use your personal Google account to display your Grafana dashboard on your team’s TV. Your personal Google account may have editing or admin permissions.
 
+cant log on with google account plz fix grafana.ini
 ### Create and edit dashboards
 
 Contact Reliability Engineering using the [#re-prometheus-support Slack channel](https://gds.slack.com/messages/CAF5H4N4Q/#) to request:
